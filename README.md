@@ -1,2 +1,3 @@
 # sph_socket_game
-nodejs socket game to test out with.
+
+RUN by using CLI and type 'node app'
